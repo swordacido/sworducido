@@ -9,5 +9,5 @@
 </div>
 <div>
   <h2>Tegnologias:</h2>
-  <a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">html</a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
