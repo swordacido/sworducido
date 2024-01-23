@@ -1,5 +1,6 @@
 <h1>Hola soy Soy Sword</h1>
 <div>
+  //sobre mi//
 <h3>Soy un desarrolador web </h3>
 <p>Soy un joven que actualmente e estudiado deforma autodidacta, aunque tambien me guie con algunos cursos.Inicie en el año del 2018 en aprender programacion . logre aprender diferentes</p>
 <p> lenguajes al pasar el tiempo pero nunca me especialice.Hasta que decidi que ha inicios de 2022 especialisarne en el desarrollo web.</p>
