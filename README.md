@@ -10,5 +10,5 @@
 </div>
 <div>
   <h2>Tegnologias:</h2>
-<img src=<"[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"
+<img src=<"[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"/>
 </div>
