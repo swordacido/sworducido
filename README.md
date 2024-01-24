@@ -1,6 +1,6 @@
 <h1>Hola soy Soy Sword</h1>
 <div>
-  //sobre mi//
+  <--sobre mi-->
 <h3>Soy un desarrolador web </h3>
 <p>Soy un joven que actualmente e estudiado deforma autodidacta, aunque tambien me guie con algunos cursos.Inicie en el año del 2018 en aprender programacion . logre aprender diferentes</p>
 <p> lenguajes al pasar el tiempo pero nunca me especialice.Hasta que decidi que ha inicios de 2022 especialisarne en el desarrollo web.</p>
@@ -9,6 +9,10 @@
   <p>Actualmente soy estudiante y en uno meses inico estudiar con maestros especializados en programacion </p>
 </div>
 <div>
+ <--Tegnologias dominantes-->
   <h2>Tegnologias:</h2>
-<img src=<"[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"/>
+<a href="https://skillicons.dev">
+  <img src=(https://skillicons.dev/icons
+    i=js,html,css,wasm>
+</a>
 </div>
