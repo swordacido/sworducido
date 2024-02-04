@@ -24,7 +24,7 @@
   <br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,docker,,mysql,nodejs,ts">
+    <img src="https://skillicons.dev/icons?i=php,laravel,docker,mysql,nodejs,ts">
   </a>
   </p>
   <p>Aunque se usar en mayoria estas tegnologias no tengo un gran conocimiento en estas, me desarrollo mas en el frondend</p>
